@@ -14,3 +14,4 @@ Template : https://github.com/clainchoupi/aoc_template
 | Jour 	| Réussite ?	| Temps d'exécution | A retenir 	|
 |---	|---	|---	|---	|
 | J01 	| ✅ / ✅ 	| 17 ms 	| 🎄 Pas facile de s'y remettre sur un nouveau pc 🤓	|
+| J02 	| ✅ / ✅ 	| 148 ms 	| 🎄 Algo revu avec Copilot, gain perf 	|
