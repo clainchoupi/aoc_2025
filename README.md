@@ -15,3 +15,5 @@ Template : https://github.com/clainchoupi/aoc_template
 |---	|---	|---	|---	|
 | J01 	| ✅ / ✅ 	| 17 ms 	| 🎄 Pas facile de s'y remettre sur un nouveau pc 🤓	|
 | J02 	| ✅ / ✅ 	| 148 ms 	| 🎄 Algo revu avec Copilot, gain perf 	|
+| J03 	| ✅ / ❌ 	| 148 ms 	| Part 1 facile, part 2 à reprendre pour gérer les 12 niveaux	|
+| J04 	| ✅ / ✅ 	| 148 ms 	| 😈 Part 2 avec boucle infinie au début, fixée avec condition d'arrêt 	|
