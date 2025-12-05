@@ -127,7 +127,7 @@ public class Day04 {
                         if (isEligiblePartOne(grid, i, j, currentChar)){
                             score++;
                             grid.get(i)[j] = '.'; //On enlève la case éligible
-                           // logger.info("PartTwo result --> TempScore: " + score);
+                            logger.info("PartTwo result --> TempScore: " + score);
                         }
                     }
                 }
