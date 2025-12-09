@@ -18,3 +18,6 @@ Template : https://github.com/clainchoupi/aoc_template
 | J03 	| ✅ / ❌ 	| 148 ms 	| Part 1 facile, part 2 à reprendre pour gérer les 12 niveaux	|
 | J04 	| ✅ / ✅ 	| 16 ms 	| 😈 Part 2 avec boucle infinie au début, fixée avec condition d'arrêt 	|
 | J05 	| ✅ / ✅ 	| 20 ms 	| Premier OOM de la saison 🥳  	|
+| J06 	| ✅ / ❌ 	| 10 ms 	| Pas pris les espaces en compte, à changer pour la partie 2	|
+| J07 	| ✅ / ❌ 	| 6 ms  	| Part 1 sympa, et Copilot m'a généré une visualisation Gif qui me plait ! 🎄	|
+| J08 	| ❌ / ❌ 	|  	| Calcul de distance qui semble ok, mais après je ne sais pas quoi en faire 🥸	|
